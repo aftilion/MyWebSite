@@ -1,0 +1,14 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Afti Aleksandr: Python developer",
+"description": "Afti Aleksander - portfolio",
+"name": "Afti Aleksandr",
+"tag1":"Python Developer",
+"sect1":"Main",
+"sect2":"Resume",
+"sect3":"Portfolio",
+"sect4":"Contact",
+"telegram":"https://t.me/Aftilion",
+"vk":"https://vk.com/alexlex_afti2001",
+"email":"mailto:aftis.sansan@gmail.com",
+"city":"Saint-Petersburg"
+}
